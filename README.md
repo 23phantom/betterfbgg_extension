@@ -3,7 +3,12 @@ BetterFB.gg enhances Facebook Gaming with new emotes.
 
 [![AppVersion-version](https://img.shields.io/badge/Version-1.0.2-brightgreen.svg)](https://github.com/23phantom/betterfbgg_extension)
 
-### Get started [PL]
+### Currently supported browsers:
+
+![](assets/img/readme/icons8-chrome-32.png)
+![](assets/img/readme/icons8-opera-32.png)
+
+# Get started [PL]
 1. Pobierz i rozpakuj pliki
 
 ![img.png](assets/img/readme/img.png)
