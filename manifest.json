@@ -1,0 +1,48 @@
+{
+  "name": "BetterFB.gg",
+  "author": "23phantomm@gmail.com",
+  "description": "BetterFB.gg enhances Facebook Gaming with new emotes.",
+  "version": "1.0.2",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "BetterFB.gg",
+    "default_popup": "options.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.facebook.com/*"
+      ],
+      "js": [
+        "assets/js/jquery.js",
+        "assets/js/variables.js",
+        "assets/js/background.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*.facebook.com/*"
+  ],
+  "icons": {
+    "16": "assets/img/favico/gg16.png",
+    "32": "assets/img/favico/gg32.png",
+    "48": "assets/img/favico/gg48.png",
+    "128": "assets/img/favico/gg128.png"
+  },
+  "options_page": "options.html",
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/img/*.png",
+        "assets/img/*.gif"
+      ],
+      "matches": [
+        "*://*.facebook.com/*"
+      ]
+    }
+  ]
+}

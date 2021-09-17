@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    min-width: 200px;
+}
+
+.bottom-right {
+    float: right;
+}
+
+.dark-300 {
+    background-color: #1A1B20 !important;
+}
+
+.dark-600 {
+    background-color: #0F1013 !important;
+}
+
+@media (min-width: 992px) {
+    .border-right {
+        border-right: 1px solid #ddd;
+    }
+}
