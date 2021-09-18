@@ -22,7 +22,7 @@ BetterFB.gg enhances Facebook Gaming with new emotes.
 ![img_2.png](assets/img/readme/img_2.png)
 
 4. Wskaż na wcześniej rozpakowany folder z plikami
-5. Ciesz się nowymi emotkami na fb VisLaud
+5. Ciesz się nowymi emotkami na fb ![](assets/img/44.png)
 
 ![img_3.png](assets/img/readme/img_3.png)
 
