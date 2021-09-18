@@ -2,7 +2,7 @@
   "name": "BetterFB.gg",
   "author": "23phantomm@gmail.com",
   "description": "BetterFB.gg enhances Facebook Gaming with new emotes.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "manifest_version": 3,
   "action": {
     "default_title": "BetterFB.gg",
